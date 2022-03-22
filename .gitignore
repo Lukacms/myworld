@@ -1,0 +1,7 @@
+/my_world
+.vscode
+*.o
+*.gc*
+libmy.a
+default
+*?.legend

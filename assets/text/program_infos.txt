@@ -1,0 +1,21 @@
+MY_WORLD       B2 - C Graphical Programming        Tek 1 task
+
+NAME
+    My_world
+
+USAGE
+    ./my_runner
+
+DESCRIPTION
+    our own terraformer program
+    take no arguments, or use the -h option to display this help and exit
+    press Escape or Alt+F4 to exit the window
+
+USER INTERACTIONS:
+
+Exit status code
+    0 if okay
+    84 in case of errors (wrong map, error while initializing parameters...)
+
+Author:
+    Luka Camus and Louis Bassagal
